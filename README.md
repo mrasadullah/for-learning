@@ -1,4 +1,4 @@
 # for-learning
 
-##second heading
+## second heading
 learning that how to use github
